@@ -1,0 +1,11 @@
+{
+  "name": "redstone-tls-prover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/redstone-finance/redstone-tls-prover",
+  "author": "hatskier <suvorovalex1997@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-tag": "^2.0.0"
+  }
+}
